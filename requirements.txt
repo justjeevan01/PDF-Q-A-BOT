@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+langchain
+langchain-community
+langchain-huggingface
+openai
+faiss-cpu
+python-dotenv
+requests
+sentence-transformers
+
